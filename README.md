@@ -9,4 +9,4 @@ NIM   : 200602026
 Kelas : Teknik Infromatika A (Semester 3)
 
 
-![Siti Luthfa Humairah](https://user-images.githubusercontent.com/95517020/147381075-72a7b85d-c8ed-4828-979d-95b6d39e35da.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/95517020/147381135-6a419c26-9b2e-45a8-a12a-8fe8ec884d7a.gif)
